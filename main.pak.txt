@@ -1,5 +1,9 @@
 Download main.pak from Google Drive because of 25MB limit :(
+
 https://drive.google.com/file/d/15p7_7PdUglpmQPNLZ4ebmqRmGSb5KNCh/view?usp=sharing
+OR
+https://github.com/ngrt/tinypvz_pak
+
 without it the game won't even start
 put it in game files (right where .txt file located)
-if you downloaded main.pak you can delete this txt :)
+if you downloaded main.pak from github just rename it from .zip to .pak! :)
